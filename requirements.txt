@@ -2,3 +2,4 @@ pandas
 straemlit
 matplotlib
 numpy
+pip
