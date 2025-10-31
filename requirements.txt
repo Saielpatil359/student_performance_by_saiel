@@ -2,4 +2,4 @@ pandas
 straemlit
 matplotlib
 numpy
-pip
+pip = 25.3
