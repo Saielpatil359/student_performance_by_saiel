@@ -16,9 +16,13 @@
 ⚙️ Installation & Usage
 
 Clone the repository and install dependencies:
+
  git clone https://github.com/your-username/student-performance-dashboard.git
+ 
  cd student-performance-dashboard
+ 
  pip install -r requirements.txt
 
 Then run the app locally:
+
  streamlit run student_dashboard.py
